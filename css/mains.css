@@ -514,9 +514,9 @@ max-height: 1500px;
     pointer-events: none;
 }
 
-@media only screen and (max-width: 1080px) {
+@media (max-width: 1080px) {
 .container {
-  max-width: none;
+  max-width: 1080px;
 }
   .news {
     flex-direction: column;
