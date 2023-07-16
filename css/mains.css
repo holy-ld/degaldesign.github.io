@@ -1,37 +1,37 @@
 @font-face {
   font-family: "SegoeUI-Light";
-  src: url("../type/SegoeUI-Light.ttf");
-  src: url("../type/SegoeUI-Light.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-Light.ttf");
+  src: url("../SegoeUI-Light.ttf?lefix") format("truetype")
 }
 @font-face {
   font-family: "SegoeUI";
-  src: url("../type/SegoeUI.ttf");
-  src: url("../type/SegoeUI.ttf?lefix") format("truetype")
+  src: url("../SegoeUI.ttf");
+  src: url("../SegoeUI.ttf?lefix") format("truetype")
 }
 @font-face {
   font-family: "SegoeUI-SemiBold";
-  src: url("../type/SegoeUI-SemiBold.ttf");
-  src: url("../type/SegoeUI-SemiBold.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-SemiBold.ttf");
+  src: url("../SegoeUI-SemiBold.ttf?lefix") format("truetype")
 }
 @font-face {
   font-family: "SegoeUI-Bold";
-  src: url("../type/SegoeUI-Bold.ttf");
-  src: url("../type/SegoeUI-Bold.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-Bold.ttf");
+  src: url("../SegoeUI-Bold.ttf?lefix") format("truetype")
 }
 @font-face {
   font-family: "SegoeUI-Italic";
-  src: url("../type/SegoeUI-Italic.ttf");
-  src: url("../type/SegoeUI-Italic.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-Italic.ttf");
+  src: url("../SegoeUI-Italic.ttf?lefix") format("truetype")
 }
 @font-face {
   font-family: "SegoeUI-BoldItalic";
-  src: url("../type/SegoeUI-BoldItalic.ttf");
+  src: url("../SegoeUI-BoldItalic.ttf");
   src: url("../type/SegoeUI-BoldItalic.ttf?lefix") format("truetype")
 }
 @font-face {
  font-family: "Sernes-Regular";
-  src: url("../type/Sernes-Regular.ttf");
-  src: url("../type/Sernes-Regular.ttf?lefix") format("truetype");
+  src: url("../Sernes-Regular.ttf");
+  src: url("../Sernes-Regular.ttf?lefix") format("truetype");
 }
 @font-face {
  font-family: "FT88-Gothique";
@@ -45,8 +45,8 @@
 }
 @font-face {
  font-family: "TokyoDreamsHybrid-Regular";
-  src: url("../type/TokyoDreamsHybrid-Regular.ttf");
-  src: url("../type/TokyoDreamsHybrid-Regular.ttf?lefix") format("truetype");
+  src: url("../TokyoDreamsHybrid-Regular.ttf");
+  src: url("../TokyoDreamsHybrid-Regular.ttf?lefix") format("truetype");
 }
 @font-face {
  font-family: "Mess";
