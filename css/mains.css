@@ -516,19 +516,10 @@ max-height: 1500px;
 
 @media (max-width: 1080px) {
 .container {
-  max-width: 1080px;
+  max-width: 100%;
 }
   .news {
     flex-direction: column;
-  }
-  .header {
-    height: 40px;
-  }
-  .big {
-    width: 70px;
-  }
-  .ticker {
-    font-size: 20px;
   }
   .menu{
     flex-direction: column;
@@ -546,7 +537,7 @@ max-height: 1500px;
 }
 
 .card a {
-  font-family: "SegoeUI-BoldItalic";
+font-family: "SegoeUI-BoldItalic";
 color: #272ebf;
 text-decoration: none;
 }
