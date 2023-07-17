@@ -26,7 +26,7 @@
 @font-face {
   font-family: "SegoeUI-BoldItalic";
   src: url("../SegoeUI-BoldItalic.ttf");
-  src: url("../type/SegoeUI-BoldItalic.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-BoldItalic.ttf?lefix") format("truetype")
 }
 @font-face {
  font-family: "Sernes-Regular";
@@ -516,7 +516,7 @@ max-height: 1500px;
 
 @media (max-width: 1080px) {
 .container {
-  width: 100%;
+  width: 300%;
 }
   .news {
     flex-direction: column;
