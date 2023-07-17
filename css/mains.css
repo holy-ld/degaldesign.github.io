@@ -72,7 +72,7 @@ body{
 
 }
 .container {
-  max-width: 100%;
+  max-width: 1920px;
   min-height: 100%;
   padding: 2%;
   position: relative;
@@ -512,7 +512,7 @@ max-height: 1500px;
     pointer-events: none;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1080px) {
   .news {
     flex-direction: column;
   }
